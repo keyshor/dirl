@@ -1,3 +1,5 @@
+Implementation of the compositional RL (DiRL) approach presented in the paper "[Compositional Reinforcement Learning from Logical Specifications](https://arxiv.org/abs/2106.13906)", Kishor Jothimurugan, Suguman Bansal, Osbert Bastani and Rajeev Alur. In NeurIPS 2021.
+
 # Dependencies
 
 Requires Python version 3.7 or higher. Commands to install all dependencies:
